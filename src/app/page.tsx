@@ -7,7 +7,7 @@ export default function Home() {
       <section className="flex min-h-screen flex-col items-center justify-center px-4 py-20 text-center">
         <h1 className="mb-6 text-5xl font-bold text-[#d4a373] md:text-6xl">Digital Gamification of Filipino Catholicism in the Roblox Community</h1>
         <p className="max-w-2xl text-xl">
-          We explored how Filipino Catholicism on Roblox influences Filipino Catholics’ faith, their sense of religious community, and the potential long-term impact of practicing Catholicism in virtual spaces in the Philippines.
+          We explored how Filipino Catholicism on Roblox influences Filipino Catholics' faith, their sense of religious community, and the potential long-term impact of practicing Catholicism in virtual spaces in the Philippines.
         </p>
       </section>
 
@@ -66,7 +66,7 @@ export default function Home() {
             <p className="text-lg leading-relaxed">
               This study employed a mixed-method approach, using both quantitative techniques such as Likert-scale survey and qualitative techniques like open-ended responses and synthesis of theories from various sources analyzed thematically.
               <br /><br />
-              This triangulation analysis allowed the researchers for a comprehensive understanding of Roblox players’ perceptions regarding the (1) authenticity, (2) communal impact, and (3) future implications of the digital gamification of Filipino Catholic faith.
+              This triangulation analysis allowed the researchers for a comprehensive understanding of Roblox players' perceptions regarding the (1) authenticity, (2) communal impact, and (3) future implications of the digital gamification of Filipino Catholic faith.
             </p>
           </div>
           <div className="order-1 md:order-2">
@@ -134,7 +134,7 @@ export default function Home() {
               <br /><br />
               Furthermore, members of this community have reported that their interactions extend beyond the virtual world. Over time, they build real-life friendships and even gather physically for fellowship or worship, fostering bonds that are both social and spiritual. This evolution from digital play to spiritual connection challenges assumptions that religious gamification is superficial or inauthentic.
               <br /><br />
-              While the majority of respondents may remain neutral about the communal value of such practices, their response shows that digital gamification, when intentionally organized, can indeed function as an invitation especially for young people. They do not expect players to be completely devoted during a ‘misa’ in the roblox server; rather, this gamification is more of a strategy to invite people to join their community and eventually create discourse in their group chat and bond virtually and physically.
+              While the majority of respondents may remain neutral about the communal value of such practices, their response shows that digital gamification, when intentionally organized, can indeed function as an invitation especially for young people. They do not expect players to be completely devoted during a 'misa' in the roblox server; rather, this gamification is more of a strategy to invite people to join their community and eventually create discourse in their group chat and bond virtually and physically.
             </p>
           </div>
         </div>
@@ -146,7 +146,7 @@ export default function Home() {
         <div className="mx-auto grid grid-cols-2 max-w-6xl gap-8 items-center">
           <div className="order-2 md:order-1">
             <p className="text-lg leading-relaxed">
-              In the future, the gamification of religion in Roblox may lead to a significant change to Filipino youth’s building and strengthening core moral principles (Zaymaan, 2018) and a possibility of dissolving authority and power in the religious sector (Adaif & Toteff, 2016; Weber, 1920).
+              In the future, the gamification of religion in Roblox may lead to a significant change to Filipino youth's building and strengthening core moral principles (Zaymaan, 2018) and a possibility of dissolving authority and power in the religious sector (Adaif & Toteff, 2016; Weber, 1920).
             </p>
           </div>
           <div className="order-1 md:order-2">
@@ -167,7 +167,7 @@ export default function Home() {
           <p className="text-lg leading-relaxed">
             Exploring this culture has led this study to adopt a different perspective—one that does not further problematize it.
             <br /><br />
-            A shift in perspective that its goal is actually to invite people rather than conducting a ‘simulation’ of religious practices changes how we view the significance of such social spaces.
+            A shift in perspective that its goal is actually to invite people rather than conducting a 'simulation' of religious practices changes how we view the significance of such social spaces.
             <br /><br />
             Instead of calling for the removal of such games due to concerns about authenticity or fears of weakening Filipino youth's values, we should advocate for reforms and stricter guidelines. In particular, Roblox should implement better systems to filter out players who mock or disrespect these communities, thereby preserving and strengthening their core: a genuine sense of religious community.
           </p>
